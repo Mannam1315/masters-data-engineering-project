@@ -22,4 +22,4 @@ This repository demonstrates a simple data engineering pipeline combined with AP
 
 ---
 
-⭐ This project showcases backend + data engineering skills.
+⭐ A graduate research project developed as part of a Master's program, demonstrating end-to-end backend and data engineering capabilities including pipeline design, data modeling, and cloud integration.
